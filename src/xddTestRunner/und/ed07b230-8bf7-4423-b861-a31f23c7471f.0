@@ -1,9 +1,9 @@
 ﻿{2,
-{36,0,0,0,0,1,0,0,00000000-0000-0000-0000-000000000000,0,
+{28,0,0,0,0,1,0,0,00000000-0000-0000-0000-000000000000,0,
 {1,0},0,0,1,1,1,0,1,0,
 {3,3ccc650e-f631-4cae-8e33-3eaac610b5f9,"ПриОткрытии",9f2e5ddb-3492-4f5d-8f0d-416b8d1d5c5b,"ПриСозданииНаСервере",ca21cd18-35b2-4281-b5c8-016ecc8da8ac,"ПриЗакрытии"},
 {0},1,
-{19,
+{17,
 {-1,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -14,10 +14,10 @@
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {0,0,0},8,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{19,
 {423,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -37,7 +37,7 @@
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,3,
 {0},"",-1,-1,0,
@@ -73,36 +73,8 @@ dGRhdGU6Y3JlYXRlADIwMTMtMDUtMjlUMDk6NDc6NDItMDU6MDBTDo/DAAAAJXRF
 WHRkYXRlOm1vZGlmeQAyMDEzLTA1LTI4VDA2OjE3OjMwLTA1OjAwR0bHqQAAAABJ
 RU5ErkJggg==}
 },0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{424,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ФормаЗагрузитьТестыПоУмолчаниюExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},cd5394d0-7dda-4b56-8927-93ccbe967a01,
-{19,
+{"Pattern"},"",2},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{17,
 {131,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -117,7 +89,7 @@ RU5ErkJggg==}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {6,
 {3,3,
@@ -155,7 +127,7 @@ WHRkYXRlOm1vZGlmeQAyMDEzLTA1LTI4VDA2OjE3OjMwLTA1OjAwR0bHqQAAAABJ
 RU5ErkJggg==}
 },0},
 {0},2,3},2,cd5394d0-7dda-4b56-8927-93ccbe967a01,
-{19,
+{17,
 {425,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -170,38 +142,11 @@ RU5ErkJggg==}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {1,
-{0},2},0,1,0,1,
-{8,
-{426,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ПлагиныЗагрузчикиРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},cd5394d0-7dda-4b56-8927-93ccbe967a01,
-{19,
+{0},2},0,1},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{17,
 {429,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -216,67 +161,13 @@ RU5ErkJggg==}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {6,
 {3,0,
 {0},"",-1,-1,1,0},
-{0},2,3},0,1,0,1,
-{8,
-{430,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ПодменюИсторияЗагрузкиТестовРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},1,0,1,
-{8,
-{358,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ПодменюЗагрузитьТестыExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{0},2,3},0,1},1},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {31,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -294,7 +185,7 @@ RU5ErkJggg==}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,3,
 {0},"",-1,-1,0,
@@ -371,36 +262,8 @@ DP69ghDLch1Rl1utw3sKLEn+pQjCw8PQ/BKhghLQ+Ood4Wnn7OyjBo65J+hYPYHE
 jkJU8oGYVRiEhElgSyumXlGxrMnRf2g0Abq1Goj14vxrAEGh9iL0BPs8AAAAAElF
 TkSuQmCC}
 },0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{371,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаПерезагрузитьТестыExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{"Pattern"},"",2},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {30,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -418,7 +281,7 @@ TkSuQmCC}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,3,
 {0},"",-1,-1,0,
@@ -493,36 +356,8 @@ iONyIssUhsGwXNDhOC5CQQWVilNNz+mPtCX1PjPC30QJIBL78wuckbbVgb20vO29
 mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 3BW3GkyJIgH1sX82kfz/Y/o5APw/CNRIkXZ3AAAAAElFTkSuQmCC}
 },0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{372,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаВыполнитьВсеТестыExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{"Pattern"},"",2},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {245,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -540,40 +375,12 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{373,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ФормаКомандаВыполнитьВыделенныеТестыExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},cd5394d0-7dda-4b56-8927-93ccbe967a01,
-{19,
+{"Pattern"},"",2},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{17,
 {126,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -588,13 +395,13 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {6,
 {3,0,
 {0},"",-1,-1,1,0},
 {0},2,3},3,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{19,
 {71,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -612,40 +419,12 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{375,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаГенераторМакетовДанныхExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{"Pattern"},"",2},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {73,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -663,66 +442,19 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{376,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаПоказатьГУИДExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{"Pattern"},"",2},a9f3b1ac-f51b-431e-b102-55a69acdecad,
 {19,
-{128,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
+{430,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
 {"B",1},0}
-},6,"ГруппаОПроекте",
-{1,1,
-{"ru","Группа о проекте"}
-},
-{1,1,
-{"ru","Группа о проекте"}
-},0,1,0,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{1,
-{0},2},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
-{70,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаОПроекте",
+},0,"ФормаКонвертерТестов",
 {1,0},1,
-{6,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
 {0},3,0,0,0,2,2,0,0,0,
 {3,4,
 {0}
@@ -733,94 +465,12 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{378,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"КомандаОПроектеExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},1,0,1,
-{8,
-{377,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ГруппаОПроектеExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},1,0,1,
-{8,
-{374,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ГруппаВнешниеИнструментыExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{"Pattern"},"",2},1},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {137,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -838,40 +488,12 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{379,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ФормаКомандаПерезагрузитьФормуExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{"Pattern"},"",2},a9f3b1ac-f51b-431e-b102-55a69acdecad,
+{19,
 {356,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -889,40 +511,12 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{380,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ФормаИзменитьФормуExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},1,0,0},2,cd5394d0-7dda-4b56-8927-93ccbe967a01,
-{19,
+{"Pattern"},"",2},1},2,cd5394d0-7dda-4b56-8927-93ccbe967a01,
+{17,
 {124,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -937,18 +531,13 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{17,0,0,0,0,
+{12,0,0,0,0,
 {0},
 {1,0},
-{"Pattern"},"",
-{3,4,
-{0}
-},0,0,0,1,
-{1,0}
-},1,143c00f7-a42d-4cd7-9189-88e4467dc768,
-{44,
+{"Pattern"},""},1,143c00f7-a42d-4cd7-9189-88e4467dc768,
+{42,
 {404,02023637-7868-4a5f-8576-835a76e0c9ba},0,2,1,
 {0,
 {0,
@@ -958,61 +547,67 @@ mam9GBrFhUODvdLr6e3HWk6+w5qhvEgBKvO9i8RNJZOZbt2wavZXrx5516k1ryzW
 {1,0},
 {1,
 {2}
-},0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,2,1,1,0,0,0,1,2,2,0,1,1,
+},0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,2,2,1,1,0,0,0,1,2,2,0,1,1,
 {1,
 {6}
 },
 {3,3,
 {0},"",-1,-1,0,
 {
-{#base64:iVBORw0KGgoAAAANSUhEUgAAAGAAAAAQCAYAAADpunr5AAAACXBIWXMAAA7EAAAO
-xAGVKw4bAAAAB3RJTUUH3wYEDSMN517+IgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAM
+{#base64:iVBORw0KGgoAAAANSUhEUgAAAHAAAAAQCAYAAADOFPsRAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAB3RJTUUH3wkIDgYGUr9hfQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAM
 dEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRF
 WHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVY
 dERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3Vy
-Y2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAH
-tElEQVRYhdWYf1BU1xXHP/ftW3goJqxiSyrWoeIPRK1romNMDWLQOBm32rEpKilj
-irbWqG380RkcSUbRkBk1sbE6GHS0VbTpj4S4dlIyEY0OmjoRRItaYkTtZpYKYZdf
-7mN/3f6x/IZdRDEz+c7svD337ve+d88575zvXSGl5FEj05I4+vm0pbmF+YdW5FjL
-K/pzbSFE2/f/nCmQlRcKqa6+S0NjPfXOBqbOS2fW4pUiGP+b2H8oqI/6BpmWxNFz
-Fqfnzpw/Pbm+uiI305LY70FoxY1zJ3juxV9QV1tNneNrqu1fUfjXfb3y9hw8KvOv
-ONCbA7Zm0NB9ett8T/ZCM6x7OUM8LF+9si+lwO91z5d+HwBCMSAM6hUhlInQJXFE
-y4gQtM6NX14YdGOZlsTRKYtSc5N/Mj7J31zJvNT4pMdMxkcWhGGJ0/j4z3l8efMW
-rntN6M1uZixcBu+vDsm7ZrMTJ0AP19GEhi6daEYNXQa3K6ui+oWv+r3u+T9ccRA8
-3sBqBgMlf1gyQRhU2fH1DkAgFAVFDbsuFENCqE1lWhJHp6Sm5s5aMCXJ13RVyMbL
-fhnxA/Hs3MFJiBk9BqGpsEB6MlcBEFViC1o2gqEpdjrWEhd5Bw6K5Zt3y6U/fo5n
-zON6XWf6ZDNLXpjVp3tt2rGzX/iq9PvB04y7YjtSCozDFjJ5xRFQWp5biJaMJ5D0
-qkrZ3vSxBqE8iRAXuy4shJBA1rPTzNlcKs8vvlSgbFwz0e/z3BGq6paoccozcwcl
-e5rGdguCK2c90Q/geIDi0qvy0PGT5L2+WgAt192yuPSqvJ8grMotwqFFYNKiQNNA
-jQCvq9tVr3Hiul7EuFitX/gKALIJ1AiEcSDeux/hrtyF58u38VbuwvPFTuovbqHh
-4hYaLm6m2fZvkJKGe+6pQfaSJaXcOj26eUxyvPjeaxvM+Ny3gQbwX8an/43CIxdO
-FVmvb+utDDUVFsim+OhOXdI5OVa63v9Tp7Guzm9F3uurxaHjJykuvdprp7VXlrJ+
-SgwZCWC/XkracAcZo6Dy0jkyRkHacAf266U8HWUHwOXV+4UvSt/5kZz08la89g9B
-GBC0Z77f76PiTBkuZwMgEUgQEsWgoqhGFDWsZsKvPhna8UGEEFJKKSBQhpJTInPn
-LJDJHp9LEu4WHx0Tp85/atiWYy0/2dUJNTPjpVofeLCoEpuomRkvo0/f6Ja9Hccr
-zn4YVPncjyqSUnL0H0XyXL0JtKigmds1g+NiNLZueEUA3fhvGj/DszFQSrM2fx6S
-rwY6azMIBVedKyDrAp2W2yUVDP3+YL7z0l7w+wAZ+AjAGEZZbkZ0D8mU1folx1pe
-kWlJXCEMhtzZC/3JJ44Gd34r+lr7QymfvqiiHS+a0d2gu3VQY8ALWljPdszj5k49
-oCvftWA9viIbWhhs6oWvCkWAt54vzpTR5KhvX1EKRjw5CtOwIXhu7kJKP8hAAAwD
-YnErY6mpc3+cvDwrVfq8acbIwRbg50D27DXbbwGHPY21VmPc0nwKD61QjCK3+HRo
-5z8IQimfvqgizQDnSs6jOxzEjYpDQ8OBjik2AYftWputaSb0yBgiVC0ofwrgqqps
-40cWF8Ary/jvibNt/HXH3sY1cqhUEQr37JUoKjz16jHw+QikuAHfnb34pQIiLFB+
-AKQfw4AROK9d5tZdPV/6vGlpi35mSZpqBjg8ZvfvsvZs2XAY4NMLpZa/nPiEHGv5
-e5mWxJ/mWMtr+9P5AJMsy7q/MS0O7osq0n0wbvzTuIAIwIWOCQ2XF0wxCe12i7O7
-9oCOfHauIWrJDACcRTYMOetp/NzWib918av89p0tKEIoNNhv81hsAjTdxG/Lw2fb
-j8/2LhjCUdRwFKOGYoxAMWoYwh8DLZKvb5ax7PeXCgDL2Ilmsre/xRiTAMgeYxJk
-b3+LsRPNeBprLQCPwvmh0JMq6q0hl5wv4rz1KI6qa1Blx9Gog067XXUNnFXoPgAt
-KB/AefQsVcdvQGucgvBVoQjqqmzEPpUEXjsifBCiRRzR7RwgEcbB3Kuq5H9VNYWX
-96XUr/4sEP30lWsBOPLGOl7auJP0lWtbbnT/aG3AD4tQqiioNPVC3ITp6F4dVHB6
-Ay5y6k60yCcCtqrh9Oo84YV2z/bAP/AaTs3Uxo+EgN0DX0UIXLVOBsQNB92JMETR
-7QTcEeFR1F4s5Xa1fuy7QwcBUNNyBH8hY23btXWsL+jagCMyd9AUHy0H3qhpG3dO
-jpUDN73RjdtR8ZTt/w0jnQ0UHdsrWxVP+/xpyvYf5820aXLqvHRaN6uFQ1yM1vK3
-QaBMBK5al0TS0Ax07wEd+DWAeURUG78GSIiN6pGvSikaFFUdVLZvD9Lvb6n0wQMg
-BEih1GXsKv3gyrtzGDIk2lr+r7OWx01DAJg4Yy62iqsA3LV/BWAN5fRQGPj8AsGN
-BZ3Ggqmk3hRPsPnkRb9GU3S25R5o+61G5/zuyY6JMbXbXfi/hG72zrwDPfIFMAkw
-hHZFN3iBMoCZyzalSp83DbD08DurMKj5p/Ky3+vj+veN1r9LLln3yzuXi7songxm
-pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
-9z/K/wMgKIMZSwrPDQAAAABJRU5ErkJggg==}
+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
+WhMgEG/VAAAAAElFTkSuQmCC}
 },0},
 {3,4,
 {0}
@@ -1023,15 +618,15 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,0,0,
 {0},
 {0},1,
-{19,
+{17,
 {405,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1042,10 +637,10 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {1,0},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
-{22,
+{19,
 {427,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
@@ -1063,40 +658,12 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},0,
 {3,0,
 {0},"",-1,-1,1,0},1,
-{"Pattern"},"",2,0,1,
-{8,
-{428,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовКонтекстноеМенюКомандаВыполнитьВыделенныеТестыРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0},
-{"U"}
-},1,0,0},1,
-{19,
+{"Pattern"},"",2},1},1,
+{17,
 {406,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1107,10 +674,10 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{0,0,0},0,1,0,0},5,77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0,0,0},0,1},5,77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {411,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1132,7 +699,7 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1142,57 +709,58 @@ pwXKULD5lCWrHujkHQrOybGyY6KEOs8g5bf787D4Jp6x8Z8fyMaRQ2THMYd5mLz3
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {7,0,0,1,1,
 {3,3,
 {0},"",-1,-1,0,
 {
-{#base64:iVBORw0KGgoAAAANSUhEUgAAAEAAAAAQCAYAAACm53kpAAAAAXNSR0IArs4c6QAA
-AAlwSFlzAAALEwAACxMBAJqcGAAABCRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAA
-ADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhN
-UCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3
-LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpE
-ZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0i
-aHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHhtbG5z
-OmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgICAgICAg
-ICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAg
-ICAgICAgICAgIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4w
-LyI+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25Vbml0PjI8L3RpZmY6UmVzb2x1
-dGlvblVuaXQ+CiAgICAgICAgIDx0aWZmOkNvbXByZXNzaW9uPjU8L3RpZmY6Q29t
-cHJlc3Npb24+CiAgICAgICAgIDx0aWZmOlhSZXNvbHV0aW9uPjcyPC90aWZmOlhS
-ZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9y
-aWVudGF0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43MjwvdGlmZjpZ
-UmVzb2x1dGlvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjY0PC9l
-eGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6Q29sb3JTcGFjZT4x
-PC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lv
-bj4xNjwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgICAgIDxkYzpzdWJqZWN0
-PgogICAgICAgICAgICA8cmRmOkJhZy8+CiAgICAgICAgIDwvZGM6c3ViamVjdD4K
-ICAgICAgICAgPHhtcDpNb2RpZnlEYXRlPjIwMTUtMDMtMjBUMjI6MDM6MDI8L3ht
-cDpNb2RpZnlEYXRlPgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPlBpeGVsbWF0
-b3IgMy4zLjE8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgPC9yZGY6RGVzY3JpcHRp
-b24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CjiAOxsAAAPbSURBVFgJ7VZr
-aBRXFD6zs7uzrzzsNpJEzKZNWdMnoohNpZhYSputlZaoiP6TPjb4yyIi+Ns/Iukv
-TZAWSn8aA0XqWilttDRNH1GIzcv1QTRsNmpTdnd2dmfuvHrO6MiyzK77q2CbC8O5
-59xzzj3fd8+9DMDKWGFghYH/CgPsyJ79yt6tKSW+PeGESYn3JpS9b6bYkd377XXO
-npTLZDI5CKYZN3HBcuK4oWg02l/uV0mPnYBBw4C4gQlcmMDlgqHEIag53rz8Cu6v
-xwEeVcDxQ9zWqarx2se9KfOFzjFjenIDBAJJYejbmF0fgYdCMep5PnJVnbm5RTgz
-tobWHAkg8LgQ9weD6IEz0wRJksi5JhIIfEu4Mb5zy0fgdXuBaQzOjn0B6eVMTSSY
-l18bBE84Dqt34f5e3J8B3BsG0JaRhGsVSaCT5zlX1HiuY9ycnXlZ8dcv1Z8ajikH
-9yUgc6/ZHVkzrSVvd0F9CMm5YJFTgYDrZjBUB3kEbSJ4DkkIIRlSXoRodJ1jjM00
-yd7jYB744BNI/vUdMF0GL++D6LPvwslvTsOFw86kl8abl14yYe0BgMwVAAPBu5CE
-xo0ACyeB656pur92cFeCU9Vms73jj+LcrU3ugNHCGULaHVk7wWZnYzxnXBO+vPi4
-M1ylG5fOVVWzuo+jerELLb3UococOYOUNApZdhcK6n1Lkk72mgebx9PPA/BIAEnS
-axjuz4djzHAvsbmbm4RX183ybZGfWGPjlDR9fTsLrVooBU/p3NVyCj6f1f72Najm
-W7pGdz4j34AghRtYP9JMOtlrG+jIiQCBMLo/egMA9Sc3j5Xef+psLN3XnQ6kH0wa
-um7g8DBR4lq+Ot9Vvr9jB6RSiyO6poLX4wFBECxJOtnLEzjpShZG/pwC8GLn0jNC
-knSyO/mX2+7c10cgOwPgq3tIAknULXu5s4M+1901aOhCOrec4cXljBtkbUGWjL/v
-7Hv/63L3SmfSNjo6OtDa2tpnBywuLo709PR8hvpd21ZFtr11FAaEBuijtqd3lMD/
-cAxqjp8/0zkQWc33WfcGExD49t1zT4wn8Cxf2Bxqb/5FEbNvKLlCC9O5tBxugLCq
-CGJG/vn1iclP7dorEUDrbfg12Y4oH+BXC3g75F+Pn9i84TTPlG3Ae84VVbU7EKj7
-bf34r/0WKTmpvaAZU6Jc/LAp3PQ92anQagTYQJ4a+fuLHUsuf/CcrKjbQvUNj0ES
-ACKhmM29nZfVHwuMvffOrXnrP8DxDXhqEJcVavq9A6KY2+EL+S/aJ2y7dF4a7+eE
-wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
+{#base64:iVBORw0KGgoAAAANSUhEUgAAAFAAAAAQCAYAAACBSfjBAAAABGdBTUEAALGPC/xh
+BQAAAAlwSFlzAAALEwAACxMBAJqcGAAABCRpVFh0WE1MOmNvbS5hZG9iZS54bXAA
+AAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9
+IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8v
+d3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJk
+ZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlm
+Zj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHht
+bG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIgogICAgICAg
+ICAgICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8i
+CiAgICAgICAgICAgIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAv
+MS4wLyI+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25Vbml0PjI8L3RpZmY6UmVz
+b2x1dGlvblVuaXQ+CiAgICAgICAgIDx0aWZmOkNvbXByZXNzaW9uPjU8L3RpZmY6
+Q29tcHJlc3Npb24+CiAgICAgICAgIDx0aWZmOlhSZXNvbHV0aW9uPjcyPC90aWZm
+OlhSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZm
+Ok9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43MjwvdGlm
+ZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjgw
+PC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6Q29sb3JTcGFj
+ZT4xPC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVu
+c2lvbj4xNjwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgICAgIDxkYzpzdWJq
+ZWN0PgogICAgICAgICAgICA8cmRmOkJhZy8+CiAgICAgICAgIDwvZGM6c3ViamVj
+dD4KICAgICAgICAgPHhtcDpNb2RpZnlEYXRlPjIwMTU6MTI6MDkgMTc6MTI6Njk8
+L3htcDpNb2RpZnlEYXRlPgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPlBpeGVs
+bWF0b3IgMy40LjE8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgPC9yZGY6RGVzY3Jp
+cHRpb24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CqWJ7IkAAAP8SURBVFgJ
+7VZtaFtVGH5PbpKb5mPNGiNttU3ZJOvG3KQy5hRZOxFtnGNSOmT7N9DdbsiYlDnm
+b//IqCDMloF//OGPaUGGRodoN9msblWodm0XV+lW0u7DuSQ3N7n33OTenXPqHUm8
+yW4iioMcuDzneXOe97zn4T2HANRH3YG6A3UH/h8O4COv7lV2b40rwvaoWUWK0BtV
+dj8bx0d27TX7vRY9MktEY7FYbBh0XdDJnC1CaCQcDg+UW18ajxyDYU0DQSMJbCSB
+zQYj0UGwrNfPrif75wWAvypA3AjaOlVRn3utN64/1nleuzTZBW53jB/5PGLURc2D
+TDbsWBX6WZ2+8gx/8vwjxm8G1qK3GeJCpOaRMwturxc8Ph9QJMcQmKmFC8vMqXkt
+Ab9wcOcgvNV/FChSTuNlJEVh/eyGYXAEBXj0DYC2QWBoDwosXrSymOQ5bhLNz3Wh
+9RvHQVGbU/v7WScqh/ZEKbevCo2rsd+7oGnFZLFymdWiN+3AWOyy7vH6IC1JpAl1
+QAiB1+MBKS1COLzGVFNYUO+7oB/Y+TrE/vgKcF4GJ+eC8EMvwvHPTsCXh5cbunB9
+6Vw/s06HtgMAiZ8ANEza1wngfxJg4Tig7umK++cO9UeRqjbrHasvZmfnNtndWgvS
++CV7qG0Cz8xEOKT9wn94+l5nlu5drd60A2lSVc2x24PoeUn7MV66WxlOPIe4NAZJ
+fA0y6k2GlNO45YHnyduRBuCIgRQptzDs730SwZr9Op69sol/fM0M1x76Dvv9U9Kl
+y9uxd+VCJfNo+mr1ZQ2kyXiXC3ieZ0i51UHfvIT8G3hccO+jnMatDbIQiQDuAPma
+lpHy+zcvS9/wwaeR5J1kS3bpFpZupLCalR0ZUUL+9z/eYmX/avSmBsbji6P5nApO
+h4MZSJFyGrdSgJKE0V+nAJzk5pGbz5ByGreiv3ozPwrJaQCXb9k8ioSzuIUEs91b
+hrU8v5S6neDE2wk7yLkFWdL+vLrn5Y8syKEafbmeaB8bGxtqbW3tMzZcXFwc7enp
+eZPwa0asArY/9zYM8Y3QR68teUKZed+8A5b18yc7h0IPc33s3pME1LyOXbP31dPD
+43Rms7ej+XtFTD6tpDItOI+W5EAjBFSFFxPyuacmJveVq71afTkDaf528gULNrpF
+5lbMMyT/uX5ic9cJDivbgHOcyqpqt9vt+/GJ8R8GmCkpqSOT06ZEOftKMBD8msaN
+Qg2sRV/JQCPvA4MX1q6+bmvwnJIVdZt3RWORSdTEbDL1fFpWv81g/NILc/N/+x9Y
+i970DXxgHCspVG9wDoliaofL23C6tMM6z4wPIN79BQ/5HU0rfcdKpIz+U71Zznqs
+7sC/68BdS71tH9LcEKQAAAAASUVORK5CYII=}
 },0},0,0,0,
 {1,0},
 {3,4,
@@ -1201,13 +769,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,0,
 {0},1,1,0,48312c09-257f-4b29-b280-284dd89efc1e},0,0,
 {0}
 },
 {0},1,
-{19,
+{17,
 {412,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1218,40 +786,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{413,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовСостояниеРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0},0},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {414,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1273,7 +814,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1283,9 +824,9 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{30,
+{26,
 {1,0},0,0,2,2,1,2,2,2,2,2,2,2,2,2,
 {"U"},
 {"U"},"",0,
@@ -1306,11 +847,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},1,
-{3,0,0},0,
-{1,0},2,0,2,0},
+{6,3,0,1},1,
+{3,0,0},0},
 {0},1,
-{19,
+{17,
 {415,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1321,40 +861,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{416,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовИмяРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0},0},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {408,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1378,7 +891,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1388,9 +901,9 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{30,
+{26,
 {1,0},0,0,2,2,1,2,2,2,2,2,2,2,2,2,
 {"U"},
 {"U"},"",0,
@@ -1411,11 +924,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},1,
-{3,0,0},0,
-{1,0},2,0,2,0},
+{6,3,0,1},1,
+{3,0,0},0},
 {0},1,
-{19,
+{17,
 {409,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1426,40 +938,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{410,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовКоличествоТестовРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0},0},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {417,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1481,7 +966,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1491,9 +976,9 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{30,
+{26,
 {1,0},0,0,2,2,1,2,2,2,2,2,2,2,2,2,
 {"U"},
 {"U"},"",0,
@@ -1514,11 +999,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},1,
-{3,0,0},0,
-{1,0},2,0,2,0},
+{6,3,0,1},1,
+{3,0,0},0},
 {0},1,
-{19,
+{17,
 {418,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1529,40 +1013,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{419,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовВремяВыполненияРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0},0},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {420,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1584,7 +1041,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1594,9 +1051,9 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{30,
+{26,
 {1,0},0,0,2,2,1,2,2,2,2,2,2,2,2,2,
 {"U"},
 {"U"},"",0,
@@ -1617,11 +1074,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},1,
-{3,0,0},0,
-{1,0},2,0,2,0},
+{6,3,0,1},1,
+{3,0,0},0},
 {0},1,
-{19,
+{17,
 {421,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1632,95 +1088,14 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{422,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовПутьРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},2,2,1,0,
-{"Pattern"},"","",2,2,0,1,
-{8,
-{407,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ДеревоТестовРасширеннаяПодсказка",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},1,0,1,
-{8,
-{381,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ГруппаДеревоТестовExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},77ffcc29-7f2d-4223-b22f-19666e7250ba,
-{32,
+{0},0},2,2,1,0,
+{"Pattern"},"","",2,2},1},77ffcc29-7f2d-4223-b22f-19666e7250ba,
+{30,
 {129,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1741,7 +1116,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {3,4,
 {0}
 },
@@ -1751,7 +1126,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
 {3,32,1,1,0,0,100,0,0,1,
 {3,4,
@@ -1759,7 +1134,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 }
 },
 {0},1,
-{19,
+{17,
 {130,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
 {0,
 {0,
@@ -1770,40 +1145,13 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
+{6,3,0,1},
 {0,0,0},1,
-{1,1},0,1,0,0},1,
+{1,1},0,1},1,
 {"Pattern"},
 {"Pattern"},"","",
-{0},0,0,1,
-{8,
-{403,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,1,
-{0,
-{0,
-{"B",1},0}
-},0,"ИндикаторВыполненияExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},"","",1,
-{19,
+{0},0},"","",1,
+{17,
 {0},0,0,1,
 {0,
 {0,
@@ -1814,32 +1162,12 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 {3,4,
 {0}
 },
-{7,3,0,1,100},
-{0,0,0},0,0,1,0,1,
-{8,
-{0},0,0,0,0,"NavigatorExtendedTooltip",
-{1,0},
-{1,0},1,0,0,2,2,
-{3,4,
-{0}
-},
-{7,3,0,1,100},
-{0,0,0},1,
-{5,0,0,3,0,
-{0},
-{3,4,
-{0}
-},
-{3,4,
-{0}
-},
-{3,0,
-{0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
-},0,1,2,
-{1,
-{1,0},0},0,0}
-},1,"",2,0},"&НаКлиенте
+{6,3,0,1},
+{0,0,0},0,0,1}
+},"&НаКлиенте
 Перем КэшФормПлагинов;
+&НаКлиенте
+Перем ПодключенныеВнешниеОбработки;
 
 // { События формы
 &НаСервере
@@ -1855,6 +1183,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 Процедура ПриОткрытии()
 	ЗагрузитьПлагины();
 	КэшироватьПеречисленияПлагинов();
+	СброситьПодключенныеВнешниеОбработки();
 	
 	ЭтоПакетныйЗапуск = ЗначениеЗаполнено(ПараметрЗапуска);
 	Если ЭтоПакетныйЗапуск Тогда
@@ -1875,7 +1204,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ОбработатьСобытиеВыполненияТестов(ИмяСобытия, Параметр) Экспорт
+Процедура ОбработатьСобытиеВыполненияТестов(Знач ИмяСобытия, Знач Параметр) Экспорт
      Если ИмяСобытия = Объект.ВозможныеСобытия.ВыполненТестовыйМетод Тогда
 		 Если Параметр.Состояние = Объект.СостоянияТестов.НеРеализован Тогда
 			 Если Элементы.ИндикаторВыполнения.ЦветРамки <> WebЦвета.Красный Тогда
@@ -1904,13 +1233,14 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ВыполнитьТестыНаКлиенте(Фильтр = Неопределено)
+Процедура ВыполнитьТестыНаКлиенте(Знач Фильтр = Неопределено)
 	Если ЗначениеЗаполнено(ЭтаФорма.ДеревоОтЗагрузчика) Тогда
 		ОчиститьСообщения();
 		
 		КоличествоТестовыхМетодов = ПолучитьКоличествоТестовыхМетодов(ЭтаФорма.ДеревоОтЗагрузчика, Фильтр);
 		ИнициализироватьИндикаторВыполнения(КоличествоТестовыхМетодов);
 		
+		СброситьПодключенныеВнешниеОбработки();
 		РезультатыТестирования = ВыполнитьТесты(Плагин(ИдентификаторЗагрузчика), ЭтаФорма.ДеревоОтЗагрузчика, Фильтр, ЭтаФорма);
 		
 		ОбновитьДеревоТестовНаОснованииРезультатовТестирования(ДеревоТестов.ПолучитьЭлементы()[0], РезультатыТестирования);
@@ -1960,6 +1290,21 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 		КонецПопытки;
 	КонецЕсли;
 КонецПроцедуры
+
+&НаКлиенте
+Процедура ГенераторМакетовДанных(Команда)
+	ОткрытьИнструмент(""СериализаторMXL"", ПолучитьПутьКПлагинам());
+КонецПроцедуры
+
+&НаКлиенте
+Процедура ПоказатьГУИД(Команда)
+	ОткрытьИнструмент(""xddGuidShow"");
+КонецПроцедуры
+
+&НаКлиенте
+Процедура КонвертерТестов(Команда)
+	ОткрытьИнструмент(""xddTestsConvertIntoRebornFormat"");
+КонецПроцедуры
 // } Управляющие воздействия пользователя
 
 // { Плагины
@@ -1968,28 +1313,65 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 	Объект.Плагины = Новый Структура;
 	КэшФормПлагинов = Новый Структура;
 	
-	Файл = Новый Файл(ЭтаФорма.ИспользуемоеИмяФайла);
-	КаталогПлагинов = Файл.Путь + ""\Plugins"";
+	КаталогПлагинов = ПолучитьПутьКПлагинам();
 	НайденныеФайлы = НайтиФайлы(КаталогПлагинов, ""*.epf"", Ложь);
+	ПомещаемыеФайлы = Новый Массив;
+	ИдентификаторыПлагинов = Новый Соответствие;
 	Для каждого ФайлОбработки Из НайденныеФайлы Цикл
-		АдресХранилища = """";
-		ПоместитьФайл(АдресХранилища, ФайлОбработки.ПолноеИмя, , Ложь, ЭтаФорма.УникальныйИдентификатор);
+		
+		ПомещаемыйФайл = Новый ОписаниеПередаваемогоФайла(ФайлОбработки.ПолноеИмя);
+		ПомещаемыеФайлы.Добавить(ПомещаемыйФайл);
 		
 		ИмяПлагина = ФайлОбработки.ИмяБезРасширения;
-		ПодключитьФайлОбработкиНаСервере(АдресХранилища, ИмяПлагина);
-		ФормаПлагина = ПолучитьФорму(""ВнешняяОбработка."" + ИмяПлагина + "".Форма"", , ЭтаФорма);
+		ИдентификаторыПлагинов.Вставить(ФайлОбработки.ПолноеИмя, ИмяПлагина);
 		
-		Попытка
-			ОписаниеПлагина = ФормаПлагина.ОписаниеПлагина(Объект.ТипыПлагинов);
-			Объект.Плагины.Вставить(ОписаниеПлагина.Идентификатор, ИмяПлагина);
-			КэшФормПлагинов.Вставить(ОписаниеПлагина.Идентификатор, ФормаПлагина);
-		Исключение
-			// TODO добавить поведение при отсутствии управляемой формы у плагина
-		КонецПопытки;
+	КонецЦикла;
+	
+	ЗагруженныеФайлы = Новый Массив;
+	Если ПомещаемыеФайлы.Количество() Тогда
+		ПоместитьФайлы(ПомещаемыеФайлы, ЗагруженныеФайлы,,Ложь, ЭтаФорма.УникальныйИдентификатор);
+	КонецЕсли;
+	
+	ОписанияПлагинов = ПодключитьПлагиныНаСервере(ЗагруженныеФайлы);
+	
+	Для Каждого ЗагруженныйФайл Из ЗагруженныеФайлы Цикл
+		ИмяПлагина = ИдентификаторыПлагинов[ЗагруженныйФайл.Имя];
+		
+		ОписаниеПлагина = ОписанияПлагинов[ЗагруженныйФайл.Имя];
+		Объект.Плагины.Вставить(ОписаниеПлагина.Идентификатор, ИмяПлагина);
+		КэшФормПлагинов.Вставить(ОписаниеПлагина.Идентификатор, Истина);
+		
 	КонецЦикла;
 	
 	ДобавитьКомандыЗагрузчиковНаФорме();
+	
 КонецПроцедуры
+
+&НаСервере
+Функция ПодключитьПлагиныНаСервере(Знач ЗагружаемыеФайлы)
+
+	ОписанияПлагинов = Новый Соответствие;
+	
+	Для Каждого ОписаниеФайла Из ЗагружаемыеФайлы Цикл
+		ФайлОбъект = Новый Файл(ОписаниеФайла.Имя);
+		ИмяПлагина = ФайлОбъект.ИмяБезРасширения;
+		ПодключитьФайлОбработкиНаСервере(ОписаниеФайла.Хранение, ИмяПлагина);
+		
+		Попытка
+			ОбъектОбработки = ВнешниеОбработки.Создать(ИмяПлагина, Ложь);
+			ОбъектОбработки.Инициализация(ЭтотОбъектНаСервере());
+			ОписанияПлагинов.Вставить(ОписаниеФайла.Имя, ОбъектОбработки.ОписаниеПлагина(Объект.ТипыПлагинов));
+		Исключение
+			Ошибка = ""Возникла ошибка при загрузке плагина: ""+ОписаниеФайла.Имя + Символы.ПС + ПодробноеПредставлениеОшибки(ИнформацияОбОшибке());
+			Сообщить(Ошибка);
+			Продолжить;
+		КонецПопытки;
+		
+	КонецЦикла;
+	
+	Возврат Новый ФиксированноеСоответствие(ОписанияПлагинов);
+
+КонецФункции // ПодключитьПлагиныНаСервере()
 
 &НаКлиенте
 Процедура КэшироватьПеречисленияПлагинов()
@@ -1997,8 +1379,25 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Функция Плагин(Идентификатор) Экспорт
-	Возврат КэшФормПлагинов[Идентификатор];
+Функция Плагин(Знач Идентификатор) Экспорт
+	
+	ОбъектПлагин = КэшФормПлагинов[Идентификатор];
+	Если ОбъектПлагин = Неопределено Тогда
+		ВызватьИсключение НСтр(""ru = 'Неизвестный идентификатор плагина: <""+Идентификатор+"">'"");
+	ИначеЕсли ОбъектПлагин = Истина Тогда
+		// загрузка клиентского плагина ""По требованию""
+		ИмяПлагина = Объект.Плагины[Идентификатор];
+		Попытка
+			ОбъектПлагин = ПолучитьФорму(""ВнешняяОбработка."" + ИмяПлагина + "".Форма"", , ЭтаФорма);
+			КэшФормПлагинов.Вставить(Идентификатор, ОбъектПлагин);
+		Исключение
+			// TODO добавить поведение при отсутствии управляемой формы у плагина
+			ВызватьИсключение;
+		КонецПопытки;
+
+	КонецЕсли;
+	
+	Возврат ОбъектПлагин;
 КонецФункции
 
 &НаСервере
@@ -2013,11 +1412,25 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 	КонецЦикла;
 КонецПроцедуры
 
+&НаКлиенте
+Функция ПолучитьОписанияПлагиновПоТипу(Знач ТипПлагина) Экспорт
+	Результат = ПолучитьОписанияПлагиновПоТипуНаСервере(ТипПлагина);
+	
+	Возврат Результат;
+КонецФункции
+
+&НаСервере
+Функция ПолучитьОписанияПлагиновПоТипуНаСервере(Знач ТипПлагина)
+	ОбъектНаСервере = РеквизитФормыВЗначение(""Объект"");
+	Результат = ОбъектНаСервере.ПолучитьОписанияПлагиновПоТипу(ТипПлагина);
+	
+	Возврат Результат;
+КонецФункции
+
 &НаСервере
 Функция ПолучитьОписанияЗагрузчиковНаСервере()
 	ОбъектНаСервере = РеквизитФормыВЗначение(""Объект"");
-	ВозможныеТипыПлагинов = ОбъектНаСервере.ТипыПлагинов;
-	ОписанияЗагрузчиков = ОбъектНаСервере.ПолучитьОписанияПлагиновПоТипу(ВозможныеТипыПлагинов.Загрузчик);
+	ОписанияЗагрузчиков = ОбъектНаСервере.ПолучитьОписанияПлагиновПоТипу(ОбъектНаСервере.ТипыПлагинов.Загрузчик);
 	
 	Возврат ОписанияЗагрузчиков;
 КонецФункции
@@ -2032,20 +1445,25 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 &НаКлиенте
 Процедура Подключаемый_ИнтерактивныйВызовЗагрузчика(Команда)
 	ИдентификаторВыбранногоЗагрузчика = Команда.Имя;
-	Путь = КэшФормПлагинов[ИдентификаторВыбранногоЗагрузчика].ВыбратьПутьИнтерактивно();
+	Путь = Плагин(ИдентификаторВыбранногоЗагрузчика).ВыбратьПутьИнтерактивно();
 	Если ЗначениеЗаполнено(Путь) Тогда
 		ЗагрузитьТесты(ИдентификаторВыбранногоЗагрузчика, Путь);
 	КонецЕсли;
 КонецПроцедуры 
 
 &НаКлиенте
-Процедура ЗагрузитьТесты(ИдентификаторВыбранногоЗагрузчика, Путь)
+Процедура ЗагрузитьТесты(Знач ИдентификаторВыбранногоЗагрузчика, Знач Путь)
 	ИнициализироватьИндикаторВыполнения();
 	
 	ЭтаФорма.ИдентификаторЗагрузчика = ИдентификаторВыбранногоЗагрузчика;
-	ФормаЗагрузчика = КэшФормПлагинов[ИдентификаторВыбранногоЗагрузчика];
+	ФормаЗагрузчика = Плагин(ИдентификаторВыбранногоЗагрузчика);
 	
-	ЭтаФорма.ДеревоОтЗагрузчика = ФормаЗагрузчика.Загрузить(ЭтаФорма, Путь);
+	Попытка
+		ЭтаФорма.ДеревоОтЗагрузчика = ФормаЗагрузчика.Загрузить(ЭтаФорма, Путь);
+	Исключение
+		Сообщить(ПодробноеПредставлениеОшибки(ИнформацияОбОшибке()));
+		Возврат;
+	КонецПопытки;
 	
 	ЭлементыДереваТестов = ЭтаФорма.ДеревоТестов.ПолучитьЭлементы();
 	ЭлементыДереваТестов.Очистить();
@@ -2059,7 +1477,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ЗаполнитьДеревоТестов(РодительскаяСтрокаДереваТестов, КонтейнерДереваТестовЗагрузчика)
+Процедура ЗаполнитьДеревоТестов(РодительскаяСтрокаДереваТестов, Знач КонтейнерДереваТестовЗагрузчика)
 	СтрокаКонтейнера = РодительскаяСтрокаДереваТестов.ПолучитьЭлементы().Добавить();
 	СтрокаКонтейнера.Имя = КонтейнерДереваТестовЗагрузчика.Имя;
 	СтрокаКонтейнера.ИконкаУзла = КонтейнерДереваТестовЗагрузчика.ИконкаУзла;
@@ -2085,7 +1503,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 		Возврат 1;
 	КонецЕсли;
 	ОбщееКоличествоТестов = 0;
-	Для каждого СтрокаДерева из коллекцияСтрок Цикл
+	Для каждого СтрокаДерева из КоллекцияСтрок Цикл
 		КоличествоТестовВСтроке = ЗаполнитьКоличествоТестовыхСлучаевПоВсемуДеревуТестов(СтрокаДерева);
 		СтрокаДерева.КоличествоТестов = КоличествоТестовВСтроке;
 		ОбщееКоличествоТестов = ОбщееКоличествоТестов + КоличествоТестовВСтроке;
@@ -2095,7 +1513,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Процедура РазвернутьСтрокиДерева(ВключаяПодчиненные = Ложь)
+Процедура РазвернутьСтрокиДерева(Знач ВключаяПодчиненные = Ложь)
 	Для каждого СтрокаДерева из ДеревоТестов.ПолучитьЭлементы() Цикл
 		Идентификатор = СтрокаДерева.ПолучитьИдентификатор();
 		Элементы.ДеревоТестов.Развернуть(Идентификатор, ВключаяПодчиненные);
@@ -2103,7 +1521,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ОбновитьДеревоТестовНаОснованииРезультатовТестирования(УзелДереваТестов, РезультатТестирования)
+Процедура ОбновитьДеревоТестовНаОснованииРезультатовТестирования(УзелДереваТестов, Знач РезультатТестирования)
 	УзелДереваТестов.Состояние = РезультатТестирования.Состояние;
 	УзелДереваТестов.ВремяВыполнения = РезультатТестирования.ВремяВыполнения;
 	Если РезультатТестирования.Тип = Объект.ТипыУзловДереваТестов.Контейнер Тогда
@@ -2119,7 +1537,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Функция НайтиСтрокуВДеревеТестовПоКлючу(УзелДереваТестов, Ключ)
+Функция НайтиСтрокуВДеревеТестовПоКлючу(УзелДереваТестов, Знач Ключ)
 	Результат = Неопределено;
 	Для каждого ЭлементКоллекции Из УзелДереваТестов.ПолучитьЭлементы() Цикл
 		Если ЭлементКоллекции.Ключ = Ключ Тогда
@@ -2134,24 +1552,25 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 
 // { Выполнение тестов
 &НаКлиенте
-Функция ПолучитьКоличествоТестовыхМетодов(КонтейнерДереваТестов, Фильтр = Неопределено) Экспорт
+Функция ПолучитьКоличествоТестовыхМетодов(Знач КонтейнерДереваТестов, Знач Фильтр = Неопределено) Экспорт
 	Возврат ПолучитьКоличествоТестовыхМетодовНаСервере(КонтейнерДереваТестов, Фильтр);
 КонецФункции
 
-Функция ПолучитьКоличествоТестовыхМетодовНаСервере(КонтейнерДереваТестов, Фильтр)
+&НаСервере
+Функция ПолучитьКоличествоТестовыхМетодовНаСервере(Знач КонтейнерДереваТестов, Знач Фильтр)
 	Возврат ЭтотОбъектНаСервере().ПолучитьКоличествоТестовыхМетодов(КонтейнерДереваТестов, Фильтр);
 КонецФункции
 
 &НаКлиенте
-Функция ВыполнитьТесты(Загрузчик, КонтейнерДереваТестов, Фильтр = Неопределено, Подписчик = Неопределено) Экспорт
-	РезультатТестирования = СоздатьКонтейнерРезультатовТестированияНаСервере(КонтейнерДереваТестов);
+Функция ВыполнитьТесты(Знач Загрузчик, Знач КонтейнерДереваТестов, Знач Фильтр = Неопределено, Знач Подписчик = Неопределено) Экспорт
+	РезультатТестирования = СоздатьКонтейнерРезультатовТестирования(КонтейнерДереваТестов);
 	ФильтрДляДочернихУзлов = Неопределено;
 	Если Не УзелДереваТестовУдовлетворяетФильтру(КонтейнерДереваТестов, Фильтр) Тогда
 		ФильтрДляДочернихУзлов = Фильтр;
 	КонецЕсли;
 	
 	Если КонтейнерДереваТестов.СлучайныйПорядокВыполнения Тогда
-		СтрокиКонтейнера = ПеремешатьМассивНаСервере(КонтейнерДереваТестов.Строки);
+		СтрокиКонтейнера = ПеремешатьМассив(КонтейнерДереваТестов.Строки);
 	Иначе
 		СтрокиКонтейнера = КонтейнерДереваТестов.Строки;
 	КонецЕсли;
@@ -2162,9 +1581,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 			ДочернийРезультатТестирования = ВыполнитьТесты(Загрузчик, ДочернийУзел, ФильтрДляДочернихУзлов, Подписчик);
 		ИначеЕсли ДочернийУзел.Тип = Объект.ТипыУзловДереваТестов.Элемент Тогда
 			Если УзелДереваТестовУдовлетворяетФильтру(ДочернийУзел, ФильтрДляДочернихУзлов) Тогда
-				Контекст = Загрузчик.ПолучитьКонтекстПоПути(ЭтаФорма, ДочернийУзел.Путь);
+				КонтекстВыполнения = ПолучитьКонтекстВыполненияПоПути(Загрузчик, ДочернийУзел.Путь);
 				Объект.ТекущийКонтейнер = КонтейнерДереваТестов;
-				ДочернийРезультатТестирования = ВыполнитьТестовыйМетод(Контекст, ДочернийУзел);
+				ДочернийРезультатТестирования = ВыполнитьТестовыйМетод(КонтекстВыполнения, ДочернийУзел);
+				КонтейнерДереваТестов.Контекст = Объект.ТекущийКонтейнер.Контекст;
 				
 				Если Подписчик <> Неопределено Тогда
 					ОповеститьОСобытии(Подписчик, Объект.ВозможныеСобытия.ВыполненТестовыйМетод, ДочернийРезультатТестирования);
@@ -2174,7 +1594,10 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 		Если ДочернийРезультатТестирования <> Неопределено Тогда
 			РезультатТестирования.Строки.Добавить(ДочернийРезультатТестирования);
 			РезультатТестирования.Состояние = ВыбратьХудшееСостояниеВыполненияТестов(РезультатТестирования.Состояние, ДочернийРезультатТестирования.Состояние);
-			ЗаполнитьДанныеСтатистикиНаСервере(РезультатТестирования, ДочернийРезультатТестирования);
+			ЗаполнитьДанныеСтатистики(РезультатТестирования, ДочернийРезультатТестирования);
+			Если Не КонтейнерДереваТестов.СлучайныйПорядокВыполнения И ДочернийРезультатТестирования.Состояние <> Объект.СостоянияТестов.Пройден Тогда
+				Прервать;
+			КонецЕсли;
 		КонецЕсли;
 	КонецЦикла;
 	Если РезультатТестирования.Строки.Количество() = 0 Тогда
@@ -2185,56 +1608,111 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Функция УзелДереваТестовУдовлетворяетФильтру(УзелДереваТестов, Фильтр)
+Функция УзелДереваТестовУдовлетворяетФильтру(Знач УзелДереваТестов, Знач Фильтр)
 	Возврат (Фильтр = Неопределено) Или (Фильтр.Найти(УзелДереваТестов.Ключ) <> Неопределено);
 КонецФункции
 
-&НаСервере
-Процедура ЗаполнитьДанныеСтатистикиНаСервере(РезультатТестирования, ДочернийРезультатТестирования)
-	ЭтотОбъектНаСервере().ЗаполнитьДанныеСтатистики(РезультатТестирования, ДочернийРезультатТестирования);
+&НаКлиенте
+Функция ПолучитьКонтекстВыполненияПоПути(Знач Загрузчик, Знач Путь)
+	КонтекстВыполнения = Загрузчик.ПолучитьКонтекстПоПути(ЭтаФорма, Путь);
+	
+	Возврат КонтекстВыполнения;
+КонецФункции
+
+&НаКлиенте
+Функция ЭтоСерверныйКонтекстВыполнения(Знач КонтекстВыполнения)
+	Результат = ТипЗнч(КонтекстВыполнения) = Тип(""ФиксированнаяСтруктура"");
+	
+	Возврат Результат;
+КонецФункции
+
+&НаКлиенте
+Процедура ЗаполнитьДанныеСтатистики(РезультатТестирования, Знач ДочернийРезультатТестирования)
+	Если ДочернийРезультатТестирования.Тип = Объект.ТипыУзловДереваТестов.Контейнер Тогда
+		РезультатТестирования.КоличествоТестов = РезультатТестирования.КоличествоТестов + ДочернийРезультатТестирования.КоличествоТестов;
+		РезультатТестирования.КоличествоСломанныхТестов = РезультатТестирования.КоличествоСломанныхТестов + ДочернийРезультатТестирования.КоличествоСломанныхТестов;
+		РезультатТестирования.КоличествоНеРеализованныхТестов = РезультатТестирования.КоличествоНеРеализованныхТестов + ДочернийРезультатТестирования.КоличествоНеРеализованныхТестов;
+		РезультатТестирования.КоличествоОшибочныхТестов = РезультатТестирования.КоличествоОшибочныхТестов + ДочернийРезультатТестирования.КоличествоОшибочныхТестов;
+		
+	ИначеЕсли ДочернийРезультатТестирования.Тип = Объект.ТипыУзловДереваТестов.Элемент Тогда
+		РезультатТестирования.КоличествоТестов = РезультатТестирования.КоличествоТестов + 1;
+		Если ДочернийРезультатТестирования.Состояние = Объект.СостоянияТестов.Сломан Тогда
+			РезультатТестирования.КоличествоСломанныхТестов = РезультатТестирования.КоличествоСломанныхТестов + 1;
+		ИначеЕсли ДочернийРезультатТестирования.Состояние = Объект.СостоянияТестов.НеРеализован Тогда
+			РезультатТестирования.КоличествоНеРеализованныхТестов = РезультатТестирования.КоличествоНеРеализованныхТестов + 1;
+		ИначеЕсли ДочернийРезультатТестирования.Состояние = Объект.СостоянияТестов.НеизвестнаяОшибка Тогда
+			РезультатТестирования.КоличествоОшибочныхТестов = РезультатТестирования.КоличествоОшибочныхТестов + 1;
+		КонецЕсли;
+	КонецЕсли;
+	РезультатТестирования.ВремяВыполнения = РезультатТестирования.ВремяВыполнения + ДочернийРезультатТестирования.ВремяВыполнения;
 КонецПроцедуры
 
 &НаКлиенте
-Функция ВыбратьХудшееСостояниеВыполненияТестов(Состояние1, Состояние2)
+Функция ВыбратьХудшееСостояниеВыполненияТестов(Знач Состояние1, Знач Состояние2)
 	Возврат Макс(Состояние1, Состояние2);
 КонецФункции
 
 &НаКлиенте
-Функция ВыполнитьТестовыйМетод(Контекст, ЭлементДереваТестов)
+Функция ВыполнитьТестовыйМетод(Знач КонтекстВыполнения, Знач ЭлементДереваТестов)
 	Перем РезультатТестирования;
 	
-	Если ТипЗнч(Контекст) = Тип(""ФиксированнаяСтруктура"") Тогда
-		РезультатТестирования = ВыполнитьТестовыйМетодНаСервере(Контекст, ЭлементДереваТестов);
+	Если ЭтоСерверныйКонтекстВыполнения(КонтекстВыполнения) Тогда
+		РезультатТестирования = ВыделитьТестовыйМетодНаСервереСОбработкойОшибокПередачиМеждуНаКлиентомИСервером(КонтекстВыполнения, ЭлементДереваТестов);
 	Иначе
-		РезультатТестирования = ВыполнитьТестовыйМетодНаКлиенте(Контекст, ЭлементДереваТестов);
+		РезультатТестирования = ВыполнитьТестовыйМетодНаКлиенте(КонтекстВыполнения, ЭлементДереваТестов);
 	КонецЕсли;
 	
 	Возврат РезультатТестирования;
 КонецФункции
 
 &НаКлиенте
-Функция ВыполнитьТестовыйМетодНаКлиенте(Контекст, ЭлементДереваТестов) Экспорт
-	Контекст.Инициализация(ЭтаФорма);
+Функция ВыполнитьТестовыйМетодНаКлиенте(Знач КонтекстВыполнения, Знач ЭлементДереваТестов) Экспорт
 	
-	РезультатТестирования = СоздатьЭлементРезультатовТестированияНаСервере(ЭлементДереваТестов);
+	РезультатТестирования = СоздатьЭлементРезультатовТестирования(ЭлементДереваТестов);
 	НачалоВыполнения = ТекущаяУниверсальнаяДатаВМиллисекундах();
-	Попытка
-		ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(Контекст, ""ПередЗапускомТеста"");
-		ВыполнитьПроцедуруКонтекста(Контекст, ЭлементДереваТестов.ИмяМетода, ЭлементДереваТестов.Параметры);
-		ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(Контекст, ""ПослеЗапускаТеста"");
-		
-		РезультатТестирования.Состояние = Объект.СостоянияТестов.Пройден;
-	Исключение
-		ТекстОшибки = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке());
-		Если ЕстьОшибка_МетодОбъектаНеОбнаружен(ТекстОшибки, ЭлементДереваТестов.ИмяМетода) Тогда
-			РезультатТестирования.Состояние = Объект.СостоянияТестов.НеРеализован;
-			Сообщение = НСтр(""ru = 'Отсутствует реализация тестового метода (%1).'"");
-			РезультатТестирования.Сообщение = СтрЗаменить(Сообщение, ""%1"", ЭлементДереваТестов.ИмяМетода);
-		Иначе
-			РезультатТестирования.Состояние = Объект.СостоянияТестов.Сломан;
-			РезультатТестирования.Сообщение = ТекстОшибки;
-		КонецЕсли;
-	КонецПопытки;
+	
+	Если ВыполнитьИнициализациюКонтекста(КонтекстВыполнения, РезультатТестирования) Тогда
+	
+		Попытка
+			ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(КонтекстВыполнения, ЭлементДереваТестов.ПередЗапускомТеста);
+			ВыполнитьПроцедуруКонтекста(КонтекстВыполнения, ЭлементДереваТестов.ИмяМетода, ЭлементДереваТестов.Параметры);
+			
+			РезультатТестирования.Состояние = Объект.СостоянияТестов.Пройден;
+		Исключение
+			ИнформацияОбОшибке = ИнформацияОбОшибке();
+			ТекстОшибки = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке);
+			КраткийТекстОшибки = КраткоеПредставлениеОшибки(ИнформацияОбОшибке);
+			Если ЕстьОшибка_МетодОбъектаНеОбнаружен(КраткийТекстОшибки, ЭлементДереваТестов.ИмяМетода) Тогда
+				РезультатТестирования.Состояние = Объект.СостоянияТестов.НеРеализован;
+				Сообщение = НСтр(""ru = 'Отсутствует реализация тестового метода (%1).'"");
+				РезультатТестирования.Сообщение = СтрЗаменить(Сообщение, ""%1"", ЭлементДереваТестов.ИмяМетода);
+			Иначе
+				РезультатТестирования.Сообщение = ТекстОшибки;
+				Если ЭтоОшибкаПроверки(КраткийТекстОшибки) Тогда
+					РезультатТестирования.Состояние = Объект.СостоянияТестов.Сломан;
+				ИначеЕсли ЭтоПропущенныйТест(КраткийТекстОшибки) Тогда
+					РезультатТестирования.Состояние = Объект.СостоянияТестов.НеРеализован;
+				Иначе
+					РезультатТестирования.Состояние = Объект.СостоянияТестов.НеизвестнаяОшибка;
+				КонецЕсли;
+			КонецЕсли;
+		КонецПопытки;
+		Попытка
+			ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(КонтекстВыполнения, ЭлементДереваТестов.ПослеЗапускаТеста);
+		Исключение
+			ИнформацияОбОшибке = ИнформацияОбОшибке();
+			РезультатТестирования.Сообщение = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке);
+			
+			КраткийТекстОшибки = КраткоеПредставлениеОшибки(ИнформацияОбОшибке);
+			Если ЭтоОшибкаПроверки(КраткийТекстОшибки) Тогда
+				РезультатТестирования.Состояние = Объект.СостоянияТестов.Сломан;
+			Иначе
+				РезультатТестирования.Состояние = Объект.СостоянияТестов.НеизвестнаяОшибка;
+			КонецЕсли;
+			
+		КонецПопытки;
+	КонецЕсли;
+	
 	ОкончаниеВыполнения = ТекущаяУниверсальнаяДатаВМиллисекундах();
 	РезультатТестирования.ВремяВыполнения = (ОкончаниеВыполнения - НачалоВыполнения) / 1000;
 	
@@ -2242,32 +1720,54 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Функция ПолучитьОписаниеКонтекста(Идентификатор, ЭтоВнутренняяОбработка = Ложь) Экспорт
-	ОписаниеКонтекста = Новый Структура(""Идентификатор, ЭтоВнутренняяОбработка"", Идентификатор, ЭтоВнутренняяОбработка);
+Функция ВыполнитьИнициализациюКонтекста(КонтекстВыполнения, РезультатТестирования)
+	Попытка
+		КонтекстВыполнения.Инициализация(ЭтаФорма);
+		Возврат Истина;
+	Исключение
+		РезультатТестирования.Сообщение = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке());
+		РезультатТестирования.Состояние = Объект.СостоянияТестов.НеизвестнаяОшибка;
+	КонецПопытки;
+	Возврат Ложь;
+КонецФункции
+
+&НаКлиенте
+Функция ВыделитьТестовыйМетодНаСервереСОбработкойОшибокПередачиМеждуНаКлиентомИСервером(Знач КонтекстВыполнения, Знач ЭлементДереваТестов)
 	
-	Возврат Новый ФиксированнаяСтруктура(ОписаниеКонтекста);
+	Перем ПолныйТекстОшибки, РезультатТестирования;
+	
+	Попытка
+		РезультатТестирования = ВыполнитьТестовыйМетодНаСервере(КонтекстВыполнения, ЭлементДереваТестов);
+	Исключение
+		ПолныйТекстОшибки = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке());
+		РезультатТестирования = СоздатьЭлементРезультатовТестирования(ЭлементДереваТестов);
+		РезультатТестирования.Сообщение = ПолныйТекстОшибки;
+		РезультатТестирования.Состояние = Объект.СостоянияТестов.НеизвестнаяОшибка;
+	КонецПопытки;
+
+	Возврат РезультатТестирования;
 КонецФункции
 
 &НаСервере
-Функция ВыполнитьТестовыйМетодНаСервере(ОписаниеКонтекста, ЭлементДереваТестов)
+Функция ВыполнитьТестовыйМетодНаСервере(Знач ОписаниеКонтекста, Знач ЭлементДереваТестов)
 	ОбъектНаСервере = ЭтотОбъектНаСервере();
 	
 	Если ОписаниеКонтекста.ЭтоВнутренняяОбработка Тогда
-		Контекст = Обработки[ОписаниеКонтекста.Идентификатор].Создать();
+		КонтекстВыполнения = Обработки[ОписаниеКонтекста.Идентификатор].Создать();
 	Иначе
-		Контекст = ВнешниеОбработки.Создать(ОписаниеКонтекста.Идентификатор);
+		КонтекстВыполнения = ВнешниеОбработки.Создать(ОписаниеКонтекста.Идентификатор, Ложь);
 	КонецЕсли;
-	Контекст.Инициализация(ОбъектНаСервере);
+	КонтекстВыполнения.Инициализация(ОбъектНаСервере);
 	
-	РезультатТестирования = ОбъектНаСервере.ВыполнитьТестовыйМетод(Контекст, ЭлементДереваТестов);
+	РезультатТестирования = ОбъектНаСервере.ВыполнитьТестовыйМетод(КонтекстВыполнения, ЭлементДереваТестов);
 	
 	Возврат РезультатТестирования;
 КонецФункции
 
 &НаКлиенте
-Процедура ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(Контекст, ИмяПроцедуры)
+Процедура ВыполнитьНеобязательнуюПроцедуруТестовогоСлучая(Знач КонтекстВыполнения, Знач ИмяПроцедуры)
 	Попытка
-		ВыполнитьПроцедуруКонтекста(Контекст, ИмяПроцедуры);
+		ВыполнитьПроцедуруКонтекста(КонтекстВыполнения, ИмяПроцедуры);
 	Исключение
 		ТекстОшибки = ПодробноеПредставлениеОшибки(ИнформацияОбОшибке());
 		Если Не ЕстьОшибка_МетодОбъектаНеОбнаружен(ТекстОшибки, ИмяПроцедуры) Тогда
@@ -2277,14 +1777,14 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ВыполнитьПроцедуруКонтекста(Контекст, ПроцедураКонтекста, Параметры = Неопределено)
+Процедура ВыполнитьПроцедуруКонтекста(Знач КонтекстВыполнения, Знач ПроцедураКонтекста, Знач Параметры = Неопределено)
 	СтрокаПараметров = СформироватьСтрокуПараметров(Параметры);
-	ИcполняемыйКод = ""Контекст."" + ПроцедураКонтекста + ""("" + СтрокаПараметров + "");"";
+	ИcполняемыйКод = ""КонтекстВыполнения."" + ПроцедураКонтекста + ""("" + СтрокаПараметров + "");"";
 	Выполнить(ИcполняемыйКод);
 КонецПроцедуры
 
 &НаКлиенте
-Функция СформироватьСтрокуПараметров(Параметры)
+Функция СформироватьСтрокуПараметров(Знач Параметры)
 	СтрокаПараметров = """";
 	Если ТипЗнч(Параметры) = Тип(""Массив"") Тогда
 		Для Сч = 0 По Параметры.Количество() - 1 Цикл
@@ -2296,32 +1796,68 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Функция ЕстьОшибка_МетодОбъектаНеОбнаружен(ТекстОшибки, ИмяМетода)
+Функция ЕстьОшибка_МетодОбъектаНеОбнаружен(Знач ТекстОшибки, Знач ИмяМетода)
 	Результат = Ложь;
-	Если Найти(текстОшибки, ""Метод объекта не обнаружен ("" + ИмяМетода + "")"") > 0 
-		ИЛИ Найти(текстОшибки, ""Object method not found ("" + ИмяМетода + "")"") > 0  Тогда
+	Если Найти(ТекстОшибки, ""Метод объекта не обнаружен ("" + ИмяМетода + "")"") > 0 
+		ИЛИ Найти(ТекстОшибки, ""Object method not found ("" + ИмяМетода + "")"") > 0  Тогда
 		Результат = Истина;
 	КонецЕсли;
 	
 	Возврат Результат;
 КонецФункции
+
+Функция ЭтоОшибкаПроверки(ТекстОшибки)
+	
+	Возврат Найти(ТекстОшибки, ""[""+ Объект.СтатусыРезультатаТестирования.ОшибкаПроверки + ""]"") = 1;
+	
+КонецФункции
+
+Функция ЭтоПропущенныйТест(ТекстОшибки)
+	
+	Возврат Найти(ТекстОшибки, ""[""+ Объект.СтатусыРезультатаТестирования.ТестПропущен + ""]"") > 0;
+	
+КонецФункции
+
 // } Выполнение тестов
 
 // { Генерация результатов тестирования
-&НаСервере
-Функция СоздатьКонтейнерРезультатовТестированияНаСервере(КонтейнерДереваТестов)
-	Возврат ЭтотОбъектНаСервере().СоздатьКонтейнерРезультатовТестирования(КонтейнерДереваТестов);
+&НаКлиенте
+Функция СоздатьКонтейнерРезультатовТестирования(Знач КонтейнерДереваТестов)
+	ГруппаРезультатовТестирования = Новый Структура;
+	ГруппаРезультатовТестирования.Вставить(""Ключ"", КонтейнерДереваТестов.Ключ);
+	ГруппаРезультатовТестирования.Вставить(""Тип"", КонтейнерДереваТестов.Тип);
+	ГруппаРезультатовТестирования.Вставить(""Имя"", КонтейнерДереваТестов.Имя);
+	ГруппаРезультатовТестирования.Вставить(""Состояние"", Объект.СостоянияТестов.НеВыполнен);
+	ГруппаРезультатовТестирования.Вставить(""КоличествоТестов"", 0);
+	ГруппаРезультатовТестирования.Вставить(""КоличествоСломанныхТестов"", 0);
+	ГруппаРезультатовТестирования.Вставить(""КоличествоОшибочныхТестов"", 0);
+	ГруппаРезультатовТестирования.Вставить(""КоличествоНеРеализованныхТестов"", 0);
+	ГруппаРезультатовТестирования.Вставить(""ВремяВыполнения"", 0);
+	ГруппаРезультатовТестирования.Вставить(""Строки"", Новый Массив);
+	
+	Возврат ГруппаРезультатовТестирования;
 КонецФункции
 
-&НаСервере
-Функция СоздатьЭлементРезультатовТестированияНаСервере(ЭлементДереваТестов)
-	Возврат ЭтотОбъектНаСервере().СоздатьЭлементРезультатовТестирования(ЭлементДереваТестов);
+&НаКлиенте
+Функция СоздатьЭлементРезультатовТестирования(Знач ЭлементДереваТестов)
+	РезультатТестирования = Новый Структура;
+	РезультатТестирования.Вставить(""Ключ"", ЭлементДереваТестов.Ключ);
+	РезультатТестирования.Вставить(""Тип"", ЭлементДереваТестов.Тип);
+	РезультатТестирования.Вставить(""Путь"", ЭлементДереваТестов.Путь);
+	РезультатТестирования.Вставить(""ИмяМетода"", ЭлементДереваТестов.ИмяМетода);
+	РезультатТестирования.Вставить(""Представление"", ЭлементДереваТестов.Представление);
+	РезультатТестирования.Вставить(""Параметры"", ЭлементДереваТестов.Параметры);
+	РезультатТестирования.Вставить(""Состояние"", Объект.СостоянияТестов.НеВыполнен);
+	РезультатТестирования.Вставить(""ВремяВыполнения"", 0);
+	РезультатТестирования.Вставить(""Сообщение"", """");
+	
+	Возврат РезультатТестирования;
 КонецФункции
 // } Генерация результатов тестирования
 
 // { История загрузки тестов
 &НаСервере
-Процедура СохранитьВИсториюЗагрузкиТестовНаСервере(ИдентификаторЗагрузчика, Путь)
+Процедура СохранитьВИсториюЗагрузкиТестовНаСервере(Знач ИдентификаторЗагрузчика, Знач Путь)
 	ЭтотОбъектНаСервере = ЭтотОбъектНаСервере();
 	ЭтотОбъектНаСервере.СохранитьВИсториюЗагрузкиТестов(ИдентификаторЗагрузчика, Путь);
 	ЗначениеВРеквизитФормы(ЭтотОбъектНаСервере, ""Объект"");
@@ -2380,7 +1916,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецПроцедуры
 
 &НаКлиенте
-Функция ЗагрузитьИВыполнитьТесты_ПакетныйРежим(Параметры_xddRun)
+Функция ЗагрузитьИВыполнитьТесты_ПакетныйРежим(Знач Параметры_xddRun)
 	Попытка
 		ИдентификаторЗагрузчика = Параметры_xddRun[0];
 		Загрузчик = ЭтаФорма.Плагин(ИдентификаторЗагрузчика);
@@ -2390,7 +1926,8 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 		
 		РезультатыТестирования = ЭтаФорма.ВыполнитьТесты(Загрузчик, ДеревоТестовОтЗагрузчика);
 	Исключение
-		ОписаниеОшибки = ОписаниеОшибки();
+		ОписаниеОшибки = ""Ошибка загрузки и выполнения тестов в пакетном режиме
+		|"" + ОписаниеОшибки();
 		ЗафиксироватьОшибкуВЖурналеРегистрации(ОписаниеОшибки);
 	КонецПопытки;
 	
@@ -2398,7 +1935,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Процедура СформироватьОтчетОТестированииИЭкспортировать_ПакетныйРежим(Параметры_xddReport, РезультатыТестирования)
+Процедура СформироватьОтчетОТестированииИЭкспортировать_ПакетныйРежим(Знач Параметры_xddReport, Знач РезультатыТестирования)
 	Попытка
 		ИдентификаторГенератораОтчета = Параметры_xddReport[0];
 		ГенераторОтчета = ЭтаФорма.Плагин(ИдентификаторГенератораОтчета);
@@ -2408,13 +1945,14 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 		ПутьКОтчету = Параметры_xddReport[1];
 		ГенераторОтчета.Экспортировать(Отчет, ПутьКОтчету);
 	Исключение
-		ОписаниеОшибки = ОписаниеОшибки();
+		ОписаниеОшибки = ""Ошибка формирования и экспорта отчета о тестировании в пакетном режиме
+		|"" + ОписаниеОшибки();
 		ЗафиксироватьОшибкуВЖурналеРегистрации(ОписаниеОшибки);
 	КонецПопытки;
 КонецПроцедуры
 
 &НаСервере
-Процедура ЗафиксироватьОшибкуВЖурналеРегистрации(ОписаниеОшибки)
+Процедура ЗафиксироватьОшибкуВЖурналеРегистрации(Знач ОписаниеОшибки)
 	ЗаписьЖурналаРегистрации(ЭтотОбъектНаСервере().Метаданные().Имя, УровеньЖурналаРегистрации.Ошибка, , , ОписаниеОшибки);
 КонецПроцедуры
 // } Пакетный запуск
@@ -2423,7 +1961,7 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 &НаКлиенте
 Процедура СохранитьКонтекст(Знач Контекст) Экспорт
 	Если Объект.ТекущийКонтейнер.СлучайныйПорядокВыполнения Тогда
-		ВызватьИсключение ""Сохранять контекст можно только в рамках контейнеров со строгим порядком выполнения"";
+		ВызватьИсключение Объект.ВозможныеИсключения.СохранятьКонтекстТолькоВСтрогомРежиме;
 	КонецЕсли;
 	Объект.ТекущийКонтейнер.Контекст = Контекст;
 КонецПроцедуры
@@ -2431,18 +1969,98 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 &НаКлиенте
 Функция ПолучитьКонтекст() Экспорт
 	Если Объект.ТекущийКонтейнер.СлучайныйПорядокВыполнения Тогда
-		ВызватьИсключение ""Получать контекст можно только в рамках контейнеров со строгим порядком выполнения"";
+		ВызватьИсключение Объект.ВозможныеИсключения.ПолучатьКонтекстТолькоВСтрогомРежиме;
 	КонецЕсли;
 	
 	Возврат Объект.ТекущийКонтейнер.Контекст;
 КонецФункции
 // } Контекст
 
+Процедура ВызватьОшибкуПроверки(СообщениеОшибки = """") Экспорт
+	
+	Префикс = ""[""+ Объект.СтатусыРезультатаТестирования.ОшибкаПроверки + ""]"";
+	ВызватьИсключение Префикс + "" "" + СообщениеОшибки;
+	
+КонецПроцедуры
+
+Процедура ПропуститьТест(Знач Сообщение = """") Экспорт
+	
+	Префикс = ""["" + Объект.СтатусыРезультатаТестирования.ТестПропущен + ""]"";
+	Если ПустаяСтрока(Сообщение) Тогда
+		Сообщение = НСтр(""ru = 'Тест пропущен'"");
+	КонецЕсли;
+	ВызватьИсключение Префикс + "" "" + Сообщение;
+	
+КонецПроцедуры
+
+// { Внешние интерфейстные инструменты
+&НаКлиенте
+Процедура ОткрытьИнструмент(Знач ИмяИнструмента, Знач ПутьИнструмента = """", Знач ИмяФормы = ""Форма"")
+	Если Не ПустаяСтрока(ПутьИнструмента) Тогда
+		ПутьКВнешнимИнструментам = ПутьИнструмента + ""\"";
+	Иначе
+		ПутьКВнешнимИнструментам = ПолучитьПутьКВнешнимИнструментам();
+	КонецЕсли;
+	ПутьИнструмента = ПутьКВнешнимИнструментам + ИмяИнструмента + "".epf"";
+	ФайлИнструмента = Новый Файл(ПутьИнструмента);
+	Если Не ФайлИнструмента.Существует() Тогда
+		Сообщить(""Инструмент <"" + ИмяИнструмента + ""> не найден в каталоге <"" + ФайлИнструмента.Путь + "">"");
+		Возврат;
+	КонецЕсли;
+	АдресХранилища = """";
+	ПоместитьФайл(АдресХранилища, ФайлИнструмента.ПолноеИмя, , Ложь);
+	ПодключитьФайлОбработкиНаСервере(АдресХранилища, Неопределено);
+	
+	ФормаИнструмента = ПолучитьФорму(""ВнешняяОбработка."" + ИмяИнструмента + ""."" + ИмяФормы);
+	Если ФормаИнструмента = Неопределено Тогда
+		Сообщить(""Инструмент <"" + ИмяИнструмента + "">: не удалось получить основную форму!"");
+		Возврат;
+	КонецЕсли;
+	ФормаИнструмента.Открыть();
+	ФормаИнструмента = Неопределено;
+КонецПроцедуры
+
+&НаКлиенте
+Функция ПолучитьПутьКПлагинам()
+	ФайлЯдра = Новый Файл(ЭтаФорма.ИспользуемоеИмяФайла);
+	Результат = ФайлЯдра.Путь + ""Plugins\"";
+	
+	Возврат Результат;
+КонецФункции
+
+&НаКлиенте
+Функция ПолучитьПутьКВнешнимИнструментам()
+	ФайлЯдра = Новый Файл(ЭтаФорма.ИспользуемоеИмяФайла);
+	Результат = ФайлЯдра.Путь + ""Utils\"";
+	
+	Возврат Результат;
+КонецФункции
+// } Внешние интерфейстные инструменты
+
 // { Helpers
+&НаКлиенте
+Процедура ПодключитьВнешнююОбработку(ФайлОбработки) Экспорт
+	Если ПодключенныеВнешниеОбработки.Получить(ФайлОбработки.ИмяБезРасширения) = Неопределено Тогда
+		АдресХранилища = """";
+		ПоместитьФайл(АдресХранилища, ФайлОбработки.ПолноеИмя, , Ложь, ЭтаФорма.УникальныйИдентификатор);
+		
+		ПодключитьФайлОбработкиНаСервере(АдресХранилища, ФайлОбработки.ИмяБезРасширения);
+		
+		ПодключенныеВнешниеОбработки.Вставить(ФайлОбработки.ИмяБезРасширения, Истина);
+	КонецЕсли;
+КонецПроцедуры
+
 &НаСервереБезКонтекста
-Процедура ПодключитьФайлОбработкиНаСервере(АдресХранилища, ИдентификаторОбработки) Экспорт
+Процедура ПодключитьФайлОбработкиНаСервере(Знач АдресХранилища, Знач ИдентификаторОбработки)
 	ВнешниеОбработки.Подключить(АдресХранилища, ИдентификаторОбработки, Ложь);
 КонецПроцедуры
+
+&НаКлиенте
+Функция ПолучитьОписаниеКонтекстаВыполнения(Знач Идентификатор, Знач ЭтоВнутренняяОбработка = Ложь) Экспорт
+	ОписаниеКонтекстаВыполнения = Новый Структура(""Идентификатор, ЭтоВнутренняяОбработка"", Идентификатор, ЭтоВнутренняяОбработка);
+	
+	Возврат Новый ФиксированнаяСтруктура(ОписаниеКонтекстаВыполнения);
+КонецФункции
 
 &НаСервере
 Функция ЭтотОбъектНаСервере()
@@ -2450,20 +2068,38 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 КонецФункции
 
 &НаКлиенте
-Процедура ИнициализироватьИндикаторВыполнения(КоличествоТестовыхМетодов = 0)
+Процедура ИнициализироватьИндикаторВыполнения(Знач КоличествоТестовыхМетодов = 0)
 	Элементы.ИндикаторВыполнения.МаксимальноеЗначение = КоличествоТестовыхМетодов;
 	ИндикаторВыполнения = 0;
 	Элементы.ИндикаторВыполнения.ЦветРамки = Новый Цвет(0, 174, 0); // Зеленый
 КонецПроцедуры
 
 &НаКлиенте
-Процедура ОповеститьОСобытии(Подписчик, Событие, ПараметрыСобытия)
+Процедура ОповеститьОСобытии(Знач Подписчик, Знач Событие, Знач ПараметрыСобытия)
 	Выполнить(""Подписчик.ОбработатьСобытиеВыполненияТестов(Событие, ПараметрыСобытия);"");
 КонецПроцедуры
 
-&НаСервере
-Функция ПеремешатьМассивНаСервере(Знач ИсходныйМассив)
-	Возврат ЭтотОбъектНаСервере().ПеремешатьМассив(ИсходныйМассив);
+&НаКлиенте
+Функция ПеремешатьМассив(Знач ИсходныйМассив) Экспорт
+	Результат = Новый Массив;
+	Для Каждого Элемент Из ИсходныйМассив Цикл
+		Результат.Добавить(Элемент);
+	КонецЦикла;
+	
+	// алгоритм перемешивания взят из книги Кнута ""Искусство программирования"" т.2
+	ГСЧ = Новый ГенераторСлучайныхЧисел();
+	ПоследнийИндекс = Результат.ВГраница();
+	Для Индекс = 1 По ПоследнийИндекс Цикл
+		ТекущийИндекс = ПоследнийИндекс - Индекс + 1;
+		НовыйИндекс = ГСЧ.СлучайноеЧисло(0, ТекущийИндекс);
+		Если НовыйИндекс <> ТекущийИндекс Тогда
+			Значение = Результат[НовыйИндекс];
+			Результат[НовыйИндекс] = Результат[ТекущийИндекс];
+			Результат[ТекущийИндекс] = Значение;
+		КонецЕсли;
+	КонецЦикла;
+	
+	Возврат Результат;
 КонецФункции
 
 &НаКлиенте
@@ -2479,6 +2115,42 @@ wHkB9B3PrKo7YdtX5P+dgX8Ax9moY3JcXXwAAAAASUVORK5CYII=}
 	
 	Возврат Результат;
 КонецФункции
+
+&НаКлиенте
+Процедура СброситьПодключенныеВнешниеОбработки()
+	ПодключенныеВнешниеОбработки = Новый Соответствие;
+КонецПроцедуры
+
+&НаКлиенте
+Функция ПараметрыМетода(Знач Парам1, Знач Парам2 = Неопределено, Знач Парам3 = Неопределено, Знач Парам4 = Неопределено, Знач Парам5 = Неопределено, Знач Парам6 = Неопределено, Знач Парам7 = Неопределено, Знач Парам8 = Неопределено, Знач Парам9 = Неопределено) Экспорт
+	ВсеПараметры = Новый Массив;
+	ВсеПараметры.Добавить(Парам1);
+	ВсеПараметры.Добавить(Парам2);
+	ВсеПараметры.Добавить(Парам3);
+	ВсеПараметры.Добавить(Парам4);
+	ВсеПараметры.Добавить(Парам5);
+	ВсеПараметры.Добавить(Парам6);
+	ВсеПараметры.Добавить(Парам7);
+	ВсеПараметры.Добавить(Парам8);
+	ВсеПараметры.Добавить(Парам9);
+	
+	ИндексСПоследнимПараметром = 0;
+	Для Сч = 0 По ВсеПараметры.ВГраница() Цикл
+		Индекс = ВсеПараметры.ВГраница() - Сч;
+		Если ВсеПараметры[Индекс] <> Неопределено Тогда
+			ИндексСПоследнимПараметром = Индекс;
+			Прервать;
+		КонецЕсли;
+	КонецЦикла;
+	
+	ПараметрыМетода = Новый Массив;
+	Для Сч = 0 По ИндексСПоследнимПараметром Цикл
+		ПараметрыМетода.Добавить(ВсеПараметры[Сч]);
+	КонецЦикла;
+	
+	Возврат ПараметрыМетода;
+КонецФункции
+
 // } Helpers
 ",
 {4,6,
@@ -2746,7 +2418,7 @@ L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 {"#",4772b3b4-f4a3-49c0-a1a5-8cb5961511a3}
 },0}
 },
-{0,11,
+{0,9,
 {6,
 {3,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"КомандаВыполнитьВсеТесты",
 {1,1,
@@ -2796,23 +2468,6 @@ L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 {0,0,0},
 {3,1,
 {0,0ce78048-0196-4f80-a781-9829cdb7f43e},"",-1,-1,1,0},"КомандаВыполнитьВыделенныеТесты",2,0,0,
-{0,0}
-},
-{6,
-{6,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ОПроекте",
-{1,1,
-{"ru","О проекте xUnitFor1C"}
-},
-{1,1,
-{"ru","О проекте xUnitFor1C"}
-},
-{0,
-{0,
-{"B",1},0}
-},
-{0,0,0},
-{3,1,
-{0,3b2a508b-f36e-4e0b-9dc0-70b2b56276a9},"",-1,-1,1,0},"ОПроекте",2,0,0,
 {0,0}
 },
 {6,
@@ -2884,40 +2539,6 @@ L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 {0,0}
 },
 {6,
-{17,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"КомандаВыполнитьВыделенныеТестыСИсключением",
-{1,1,
-{"ru","Выполнить выделенные тесты с исключением"}
-},
-{1,1,
-{"ru","Выполнить выделенные тесты с исключением"}
-},
-{0,
-{0,
-{"B",1},0}
-},
-{0,0,0},
-{3,0,
-{0},"",-1,-1,1,0},"КомандаВыполнитьВыделенныеТестыСИсключением",3,0,0,
-{0,0}
-},
-{6,
-{18,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ПоказатьОшибки",
-{1,1,
-{"ru","Показать ошибки"}
-},
-{1,1,
-{"ru","Показать ошибки"}
-},
-{0,
-{0,
-{"B",1},0}
-},
-{0,0,0},
-{3,0,
-{0},"",-1,-1,1,0},"ПоказатьОшибки",3,0,0,
-{0,0}
-},
-{6,
 {1,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ЗагрузитьТестыПоУмолчанию",
 {1,1,
 {"ru","Загрузить тесты по умолчанию"}
@@ -2932,6 +2553,23 @@ L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 {0,0,0},
 {3,0,
 {0},"",-1,-1,1,0},"ЗагрузитьТестыПоУмолчанию",3,0,0,
+{0,0}
+},
+{6,
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"КонвертерТестов",
+{1,1,
+{"ru","Конвертер тестов в формат 4-й версии"}
+},
+{1,1,
+{"ru","Конвертер тестов"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{3,0,
+{0},"",-1,-1,1,0},"КонвертерТестов",3,0,0,
 {0,0}
 }
 },
